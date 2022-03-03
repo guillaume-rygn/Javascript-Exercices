@@ -9,8 +9,6 @@ btn7.addEventListener('click', event => {
       }else{
         a = a.split("");
         a.forEach(letter => {
-          console.log(letter);
-          console.log(regexTest.test(letter));
           if  (letter.toUpperCase() == letter && regexTest.test(letter) === true){
             letterUpcase = letterUpcase*1;
           }else{
