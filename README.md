@@ -12,7 +12,7 @@ JavaScript  <br>
 
 ## WEB version 🌐
 
-Le site est en live ici 👉 [Javascript exercice](https://katatemple.herokuapp.com/)
+Le site est en live ici 👉 [Javascript exercice](https://javascriptexercice.herokuapp.com/)
 
 ## Exercices 🏋️
 
