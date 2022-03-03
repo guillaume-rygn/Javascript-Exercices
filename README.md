@@ -8,7 +8,7 @@ JavaScript  <br>
 <h4 align="center">7 exercices of basics JavaScript method</h4>
 <br>
 
-![Javascript exercice](blob:https://imgur.com/2ee0c119-8368-4ac7-9f63-df3ed32a926d)
+![Javascript exercice](https://i.imgur.com/JzuQPt8.png)
 
 ## WEB version 🌐
 
